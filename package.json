@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/diniayu130327-cmd/UAS-KELOMPOK-8#readme",
   "devDependencies": {
+    "@types/node": "^26.6.11",
     "typescript": "^7.0.2"
   }
 }
